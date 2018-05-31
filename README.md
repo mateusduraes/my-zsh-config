@@ -19,6 +19,8 @@ alias gp="git push"
 alias gc="git commit"
 alias gcm="git checkout master"
 alias gcd="git checkout develop"
+alias ionicp="code . && ionic serve"
+alias ngp="code . && ng serve"
 ```
 
 
