@@ -16,6 +16,7 @@
   ```
 * Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * Override .zshrc
+* Relogin and it works
 
 
 ### My alias
