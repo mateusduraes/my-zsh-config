@@ -6,7 +6,15 @@
 ### Installation
 
 * Install zsh
-* Install oh-my-zsh
+  ```sh
+    sudo apt-get install zsh
+    zsh --version    
+  ```
+* Make zsh default shell
+  ```zsh
+    chsh -s $(which zsh)  
+  ```
+* Install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 * Override .zshrc
 
 
